@@ -13,7 +13,7 @@ const activities = {
 
 const skills = {
   FrontEnd: ['HTML', 'CSS', 'Javascript', 'React', 'Sass'],
-  BackEnd: ['Node.js', 'Typescript', 'Express.js', 'MySQL', 'Sequelize', MongoDB, Mongoose],
+  BackEnd: ['Node.js', 'Typescript', 'Express.js', 'MySQL', 'Sequelize', 'MongoDB', 'Mongoose'],
   Tests: ['Jest', 'Testing Library', 'Mocha', 'Chai', 'Sinon'],
   Others: ['Git', 'GitHub', 'Docker'],
   Knowledge: ['TDD', 'SOLID', 'POO', 'API RESTful', 'MSC'],
