@@ -171,6 +171,6 @@ const skills = {
 	  <img height="30em" src="https://komarev.com/ghpvc/?username=joaoespacheco">
   </a>
   <a href="https://github.com/joaoespacheco?tab=followers">
-	  <img height="30em" src="https://img.shields.io/github/followers/joaoespacheco?      label=Followers&style=social" alt="GitHub Badge">
+	  <img height="30em" src="https://img.shields.io/github/followers/joaoespacheco? label=Followers&style=social" alt="GitHub Badge">
   </a>
 </div>
