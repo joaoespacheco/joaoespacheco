@@ -8,12 +8,12 @@ const name = 'João Emanuel Soares Pacheco';
 const status = ["full stack web developer", "Tryber student"];
 
 const activities = { 
-  learning : ['MongoDB', 'Mongoose'],
+  learning : ['Python'],
 };
 
 const skills = {
   FrontEnd: ['HTML', 'CSS', 'Javascript', 'React', 'Sass'],
-  BackEnd: ['Node.js', 'Typescript', 'Express.js', 'MySQL', 'Sequelize'],
+  BackEnd: ['Node.js', 'Typescript', 'Express.js', 'MySQL', 'Sequelize', MongoDB, Mongoose],
   Tests: ['Jest', 'Testing Library', 'Mocha', 'Chai', 'Sinon'],
   Others: ['Git', 'GitHub', 'Docker'],
   Knowledge: ['TDD', 'SOLID', 'POO', 'API RESTful', 'MSC'],
@@ -79,6 +79,14 @@ const skills = {
     alt="Sequelize"
   />
   <img
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
+  />
+  <img
+    src="https://img.shields.io/badge/Mongoose-white?style=for-the-badge&logo=mongodb&logoColor=7E3021"
+    alt="Mongoose"
+  />
+  <img
     src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"
     alt="Json Web Tokens"
   />
@@ -125,12 +133,8 @@ const skills = {
 <h4>Atualmente estudando</h4>	
 <div>
   <img
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-    alt="MongoDB"
-  />
-  <img
-    src="https://img.shields.io/badge/Mongoose-white?style=for-the-badge&logo=mongodb&logoColor=7E3021"
-    alt="Mongoose"
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
   />
 </div>
 </div>
