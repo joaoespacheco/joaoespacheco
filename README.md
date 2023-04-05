@@ -148,6 +148,9 @@ const skills = {
 	</a>
   <a href="https://www.linkedin.com/in/joaoespacheco" target="_blank">
 	  <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+    <a href="https://joaoespacheco.vercel.app/" target="_blank">
+	  <img height="30em" alt="Portfólio" src="./images/shield-portfolio2.png">
   </a> 
 </div>
 
