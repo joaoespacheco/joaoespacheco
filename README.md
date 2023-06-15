@@ -5,15 +5,15 @@
 
 ```js
 const name = 'João Emanuel Soares Pacheco';
-const status = ["full stack web developer", "Tryber student"];
+const status = ["Developer Jr. at A52"];
 
 const activities = { 
-  learning : ['Python'],
+  learning : ['Node', 'React'],
 };
 
 const skills = {
   FrontEnd: ['HTML', 'CSS', 'Javascript', 'React', 'Sass'],
-  BackEnd: ['Node.js', 'Typescript', 'Express.js', 'MySQL', 'Sequelize', 'MongoDB', 'Mongoose'],
+  BackEnd: ['Node.js', 'Typescript', 'Python', 'Express.js', 'MySQL', 'Sequelize', 'MongoDB', 'Mongoose'],
   Tests: ['Jest', 'Testing Library', 'Mocha', 'Chai', 'Sinon'],
   Others: ['Git', 'GitHub', 'Docker'],
   Knowledge: ['TDD', 'SOLID', 'POO', 'API RESTful', 'MSC'],
@@ -65,6 +65,10 @@ const skills = {
   <img
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
   />
   <img
     src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
@@ -133,9 +137,13 @@ const skills = {
 <h4>Atualmente estudando</h4>	
 <div>
   <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python"
-  />
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="Node.js"
+  >
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="React"
+  >
 </div>
 </div>
 
